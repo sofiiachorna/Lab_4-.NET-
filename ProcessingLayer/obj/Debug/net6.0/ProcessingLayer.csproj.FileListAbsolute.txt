@@ -1,0 +1,12 @@
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\bin\Debug\net6.0\ProcessingLayer.deps.json
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\bin\Debug\net6.0\ProcessingLayer.dll
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\bin\Debug\net6.0\ProcessingLayer.pdb
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ProcessingLayer.csproj.AssemblyReference.cache
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ProcessingLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ProcessingLayer.AssemblyInfoInputs.cache
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ProcessingLayer.AssemblyInfo.cs
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ProcessingLayer.csproj.CoreCompileInputs.cache
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ProcessingLayer.dll
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\refint\ProcessingLayer.dll
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ProcessingLayer.pdb
+D:\kpi\2 KURS\.NET labs\Lab_4\ProcessingLayer\obj\Debug\net6.0\ref\ProcessingLayer.dll

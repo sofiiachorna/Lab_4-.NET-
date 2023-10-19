@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJiT5Wv1tMFhoIGPD5Nc51GG5Klbopxdj7/HvDXrWPVe66jTyZK13ptg6G39OFJYcT2Tc2TVeAtcZQt7ahW1DA==",
+  "success": true,
+  "projectFilePath": "D:\\kpi\\2 KURS\\.NET labs\\Lab_4\\PresentationLayer\\PresentationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sophia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sophia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
