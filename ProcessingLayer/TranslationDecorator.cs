@@ -43,7 +43,7 @@ namespace ProcessingLayer
         {
             using (var response = await client.SendAsync(request))
             {
-                response.EnsureSuccessStatusCode();//200
+                response.EnsureSuccessStatusCode();
                 var body = await response.Content.ReadAsStringAsync();
                 return body;
             }

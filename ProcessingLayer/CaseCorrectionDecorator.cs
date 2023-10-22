@@ -28,14 +28,10 @@ namespace ProcessingLayer
             }
             return string.Join(". ", args);
         }
-        //Зворотнє перетворення
-        //Масив для збереження початкової стрічки
-        public static void CustomString(string text)
+        public void CustomString(string text)
         {
             string value = text.Trim(new char[] { '\n', '\r' });
             characterUpper = new bool[value.Length];
-
-            // Ініціалізуємо масив інформації про регістр
             for (int i = 0; i < value.Length; i++)
             {
                 characterUpper[i] = char.IsUpper(value[i]);
@@ -43,7 +39,6 @@ namespace ProcessingLayer
         }
         public string UpdateValue(string value)
         {
-            // Оновлюємо значення рядка на підставі інформації про регістр
             string text = value.Trim(new char[] { '\n', '\r' });
             StringBuilder newValue = new StringBuilder();
 
